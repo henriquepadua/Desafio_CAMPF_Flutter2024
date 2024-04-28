@@ -1,0 +1,12 @@
+com.example.camp_examples.app-debug-0 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\android\app\src\debug\res
+com.example.camp_examples.app-main-1 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\android\app\src\main\res
+com.example.camp_examples.app-pngs-2 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\generated\res\pngs\debug
+com.example.camp_examples.app-resValues-3 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\generated\res\resValues\debug
+com.example.camp_examples.app-rs-4 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\generated\res\rs\debug
+com.example.camp_examples.app-mergeDebugResources-5 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.camp_examples.app-mergeDebugResources-6 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.camp_examples.app-merged_res-7 C:\Projeto\Desafio_CAMP_2024\camp2024Flutter\flutter_class_examples\build\app\intermediates\merged_res\debug
+com.example.camp_examples.app-jetified-window-1.0.0-beta04-8 C:\Users\henri\.gradle\caches\transforms-3\2534cb10a453dd1f7318651afba4a7a8\transformed\jetified-window-1.0.0-beta04\res
+com.example.camp_examples.app-core-1.6.0-9 C:\Users\henri\.gradle\caches\transforms-3\637db3be6db9e256de9ec303499bc03c\transformed\core-1.6.0\res
+com.example.camp_examples.app-jetified-annotation-experimental-1.1.0-10 C:\Users\henri\.gradle\caches\transforms-3\79f51b0836b5c31401f7dcfae299e842\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.camp_examples.app-jetified-window-java-1.0.0-beta04-11 C:\Users\henri\.gradle\caches\transforms-3\d5f225fe126177b59dd307998185e480\transformed\jetified-window-java-1.0.0-beta04\res

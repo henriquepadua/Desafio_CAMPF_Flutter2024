@@ -1,0 +1,1 @@
+ C:\\Projeto\\Desafio_CAMP_2024\\camp2024Flutter\\flutter_class_examples\\.dart_tool\\flutter_build\\53d5ab6a6853c47ec4affd129edbe055\\native_assets.yaml: 
