@@ -1,4 +1,4 @@
-#Sun Apr 28 15:45:24 BRT 2024
+#Mon May 13 10:18:25 BRT 2024
 base.0=C\:\\Projeto\\Desafio_CAMP_2024\\camp2024Flutter\\flutter_class_examples\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Projeto\\Desafio_CAMP_2024\\camp2024Flutter\\flutter_class_examples\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Projeto\\Desafio_CAMP_2024\\camp2024Flutter\\flutter_class_examples\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex

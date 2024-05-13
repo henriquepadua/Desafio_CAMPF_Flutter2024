@@ -1,3 +1,4 @@
+import 'package:camp_examples/conversor_moedas/controllers/CovertendoMoedas_controller.dart';
 import 'package:flutter/material.dart';
 
 class HomeView extends StatefulWidget {
@@ -84,11 +85,12 @@ class _HomeViewState extends State<HomeView> {
                     border: OutlineInputBorder(),
                   ),
                   keyboardType: TextInputType.number,
-                  onChanged: (value) {
+                  onChanged: (value) async {
+                    var valores = await convertendoMoedasControllers.conversorMoedas();
                     setState(() {
                       dolar = double.tryParse(value) ?? 0.0;
-                      realController.text = (dolar * 5).toStringAsFixed(2);
-                      euroController.text = (dolar * 5 / 6).toStringAsFixed(2);
+                      realController.text = (dolar * valores[0]).toStringAsFixed(2);
+                      euroController.text = (dolar * valores[0] / valores[1]).toStringAsFixed(2);
                     });
                   },
                 ),
@@ -100,11 +102,12 @@ class _HomeViewState extends State<HomeView> {
                     border: OutlineInputBorder(),
                   ),
                   keyboardType: TextInputType.number,
-                  onChanged: (value) {
+                  onChanged: (value) async {
+                    var valores = await convertendoMoedasControllers.conversorMoedas();
                     setState(() {
                       euro = double.tryParse(value) ?? 0.0;
-                      realController.text = (euro * 6).toStringAsFixed(2);
-                      dolarController.text = (euro * 6 / 5).toStringAsFixed(2);
+                      realController.text = (euro * valores[1]).toStringAsFixed(2);
+                      dolarController.text = (euro * valores[1] / valores[0]).toStringAsFixed(2);
                     });
                   },
                 ),
